@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ALBINI-AI
 - 👀 I’m interested in Agriculture Technologies
 - 🌱 I’m currently learning Agriculture Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... albiniai.2002@gmail.com
 
 <!---
